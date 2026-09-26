@@ -1,9 +1,18 @@
 {
   "modules": [
-    {"module": "Gravity", "path": "Gravity.lean"},
-    {"module": "GravityOverlap", "path": "GravityOverlap.lean"}
+    {
+      "module": "Gravity",
+      "path": "Gravity.lean"
+    },
+    {
+      "module": "GravityOverlap",
+      "path": "GravityOverlap.lean"
+    }
   ],
   "expected_theorems": 30,
   "expected_false_controls": 4,
-  "root_imports": ["Gravity", "GravityOverlap"]
+  "root_imports": [
+    "Gravity",
+    "GravityOverlap"
+  ]
 }
