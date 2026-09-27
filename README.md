@@ -9,7 +9,7 @@
 ![Theorems](https://img.shields.io/badge/theorems-30-2EA043)
 ![sorry](https://img.shields.io/badge/sorry-0-2EA043)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-[![Paper DOI](https://img.shields.io/badge/paper-10.5281%2Fzenodo.22088625-blue)](https://doi.org/10.5281/zenodo.22088625)
+[![Paper DOI](https://img.shields.io/badge/paper-10.5281%2Fzenodo.22023237-blue)](https://doi.org/10.5281/zenodo.22023237)
 
 Jeromie Beasley
 
@@ -54,7 +54,7 @@ python3 scripts/verify.py
 ## The paper
 
 *The Ledger Outlives the Metric*, Jeromie Beasley. DOI
-[10.5281/zenodo.22088625](https://doi.org/10.5281/zenodo.22088625).
+[10.5281/zenodo.22023237](https://doi.org/10.5281/zenodo.22023237).
 
 ## Citation, licence and AI use
 
